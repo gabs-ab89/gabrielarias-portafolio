@@ -268,6 +268,11 @@ a {
   background-color: rgb(241 231 250 / 13%);
 }
 
+/*rounded videos*/
+.round-40{
+  border-radius: 40px;
+}
+
 
 @media (max-width: 768px){
 
